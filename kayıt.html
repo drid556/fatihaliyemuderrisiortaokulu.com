@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Fatih aliye muderrisi ortaokuluna ait olan bu resmi site okulumuzun başarılarını sınıflarını tanıtıyor">
+    <meta name="keywords" content="Fatih aliye muderrisi ortaokulu,Eğitim,Lgs gurur tablomuz,kayıtlar">
+    <link href="style.css" rel="stylesheet"> 
+    <title>Kayıtlar</title>
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body class="kayıt">
+   
+    <div class="form">
+    <form method="get">
+        <h3>Kayıt Yap</h3>
+        
+            
+        <label class="x" for="email" >e-posta:</label>
+        <input class="p" id="email" placeholder="e-posta" type="email" name="e-posta" required invalid> 
+        <label class="x" for="tel">Telefon Numarası:</label>
+        <input class="p" id="tel" placeholder="Telefon Numarası" type="tel" max="10" min="10" required invalid> 
+        <label class="x" for="ad">Adres</label>
+        <input class="p" id="ad" placeholder="Adres" type="text" name="adres" required invalid>
+        <label class="x" for='s'>Sınıf:</label>
+        <input class="p" id="s" placeholder="Sınıf" type="number" min="5" max="8" name="sınıf" required invalid>
+        <label class="x" for="tc">T.C Kimlik Numarası:</label>
+        <input class="p" id="tc" placeholder="T.C Kimlik Numarası" type="tel" max="11" min="11" name="kimlik n." required invalid>
+        <label class="x" for='dt'>Doğum Tarihi</label>
+        <input class="p" id="dt" type="date" name="doğum tarihi" required invalid>
+        <div class="c1">
+        
+        <input class="p1" id="cb" type="checkbox" name="tamam" value="evet" required checked invalid>
+        <label class="x11" for='cb'>Bilgilerden Emin Misin?</label>
+        <input  id="cb2" type="checkbox" name="tamam" value="evet" required  invalid>
+        <label  for='cb2'>I'm Not Robot</label>
+                
+    </div>
+    <button class="b" type="submit">Gönder</button> 
+    <button class="b" type="reset">Temizle</button>
+    <button class="b"><a href="index.html" target="_blank">Ana Sayfa</button>
+        <button class="merhaba" type="button" onclick="alert('Okulumuza Hoşgeldiniz!')">Tamamsa tıkla</button>
+
+        
+
+         
+    
+
+
+    </form>
+</div>
+ 
+</body>
+</html>

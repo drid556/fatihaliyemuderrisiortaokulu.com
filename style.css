@@ -1,0 +1,503 @@
+ *{font-family: serif;}
+
+ .index{background-color: white;}
+ /*navbar start*/
+ ul li {
+    list-style: none;
+    padding: 10px;
+    display: inline;
+    margin: 10px;
+   
+}
+ul li a {
+    text-decoration-line: none;
+    color: #000;
+    font-size: 18px;
+    margin-top: -20px;
+   
+}
+ul li a:hover {
+    color: rgb(205, 199, 22);
+   
+   
+}
+
+.logo{margin-right: 540px;
+font-size: 2em;
+font-family: sans-serif;
+margin-left: 0px;}
+ /*navbar end*/
+
+.okulh{text-align: center;
+text-decoration-line: underline;}
+.section-nav{text-align: center;
+margin: 0px;
+background-color: burlywood;
+height: 50px;
+list-style: none;
+padding: 9px;
+}
+.bilgip{text-align: justify;}
+.section-nav ul a{color: #000;
+text-decoration-line: none;
+margin-top: 10px;
+}
+iframe{width: 100%;
+    height: 700px;
+}
+/*footer start*/
+.footer{
+    background-color: #f4e8e8;
+    height: 250px;
+    
+    bottom: 0;
+    color:#000;
+    text-align: center;
+    position: sticky;
+    bottom: 0;
+
+}
+.footer .paragraf{ 
+width: 60%;
+margin-left: auto;
+margin-right: auto;
+padding: 30px;
+    
+}
+.footer .media div{
+    display:inline;
+margin-left: auto;
+margin-right: auto;
+padding: 20px;
+
+
+}
+.footer .media .twitter{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #000;
+    padding: 10px;
+
+}
+.footer .media .twitter:hover{
+ 
+    background-color: aqua;
+
+}
+.footer .media .twitter a i{color: rgb(20, 184, 184);
+   }
+.footer .media .twitter a i:hover{color:#fff;}
+.footer .media .facebook{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #000;
+    padding: 10px;
+
+}
+.footer .media .facebook:hover{
+ 
+    background-color: aqua;
+
+}
+.footer .media .facebook a i{color: rgb(20, 184, 184);
+    }
+.footer .media .facebook a i:hover{color: #fff}
+.footer .media .instagram{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #000;
+    padding: 10px;
+}
+.footer .media .instagram:hover{
+   background-color: aqua;
+
+}
+.footer .media .instagram a i{color: rgb(20, 184, 184);
+}
+.footer .media .instagram a i:hover{color:#fff}
+
+
+/*footer end*/
+.f1 {margin-left: 30px;
+    
+}
+.f2{margin-left: 30px;
+    margin-top: 20px;
+}
+.f3 {margin-left: 30px;
+    margin-top: 20px;
+}
+.f4 {margin-left: 30px;
+    margin-top: 20px;
+}
+/*lgss css start*/
+tr{border: #000 solid 2px}
+
+th{border: #000 solid 2px}
+th:hover{background-color: #ccc}
+td{border: #000 solid 2px ;
+text-transform: capitalize;
+text-align: center;}
+td:hover{background-color: #ccc}
+.lgsgururrr .lgt{text-align: center;}
+td:hover{background-color: #ccc}
+.lgsgururrr{margin-left: auto;
+margin-right: auto;
+margin-top: 100px;}
+.gurur{text-align: center;
+padding: 70px ;
+height: 100px;
+background-color: blanchedalmond;
+line-height: 50px;
+}
+.gurur:hover{background-color: aquamarine;}
+.gurur p{
+    font-size: 27px;
+    font-weight: bold;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+.gurur p:hover{color: rgb(56, 223, 10);}
+
+/*kayıt css start*/
+.kayıt{background-color: #000;}
+.form{color: #fff; 
+    margin-left: auto;
+    margin-right:auto ;
+    margin-top: 150px;
+    padding-top: 10px;
+    background-color: rgba(255, 255, 255, 0.3);
+    width: 20%;
+    height: 500px;
+    border-radius: 20px;
+    
+}
+.form h3{text-align: center;
+}
+.x{display: block;
+margin-left: 30px;
+margin-top: 20px;
+
+
+
+}
+.p{
+margin-left: 30px;
+width: 200px;
+background-color: 
+rgba(255, 255, 255, 0);
+border-style:underline;
+border-color: #fff;
+border-top: none;
+border-left: none;
+border-right: none;
+
+}
+.p::placeholder{color: #fff;}
+fieldset{border-radius: 20px;
+height: 450px;
+width: 20%;
+border-color: #000;
+margin-left: auto;
+margin-right: auto;
+margin-top: 100px;}
+
+
+.x11{display:flex;}
+.p1{display: inline;}
+
+.c1{display: flex;
+margin-left: 30px;
+margin-top: 10px;}
+button a{text-decoration: none; color: #000;}
+.b{margin-left:28px;
+border-radius: 5px;
+margin-top: 10px;}
+button:hover{background-color: aqua;}
+.merhaba{margin-left: 100px;
+margin-top: 10px;
+border-radius: 5px;}
+/*kayıts css end*/
+/*ets css start*/
+.etkinliklerimizxxx img{
+    width: 350px ;
+    height: 200px;
+margin-top: 50px;
+
+}
+/*ets css end*/
+/*kadros css start*/
+
+.kadromux{text-align: center;}
+.müdür{height: 100px;
+width: 100%;
+background-color: yellow;
+border-radius: 5px;
+text-align: center;
+padding-top: 3px;}
+.my{
+    height: 100px;
+    width: 100%;
+    background-color: brown;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 3px;
+    margin-top: 20px;
+    
+}
+.to{
+height: 100px;
+width: 100%;
+background-color: rgb(2, 93, 240);
+border-radius: 5px;
+text-align: center;
+padding-top: 3px;
+margin-top: 20px;
+}
+.mo{
+    height: 100px;
+width: 100%;
+background-color: rgb(34, 233, 34);
+border-radius: 5px;
+text-align: center;
+padding-top: 3px;
+margin-top: 20px;
+}
+.fo{    height: 100px;
+    width: 100%;
+    background-color: rgb(255, 0, 225);
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 3px;
+    margin-top: 20px;}
+    .sbo{    height: 100px;
+        width: 100%;
+        background-color: rgb(255, 0, 0);
+        border-radius: 5px;
+        text-align: center;
+        padding-top: 3px;
+        margin-top: 20px;}
+        .io{    height: 100px;
+            width: 100%;
+            background-color:pink;
+            border-radius: 5px;
+            text-align: center;
+            padding-top: 3px;
+            margin-top: 20px;}
+            .do{    height: 100px;
+                width: 100%;
+                background-color:rgb(255, 132, 0);
+                border-radius: 5px;
+                text-align: center;
+                padding-top: 3px;
+                margin-top: 20px;}
+                .bdo{    height: 100px;
+                    width: 100%;
+                    background-color:rgb(0, 247, 255);
+                    border-radius: 5px;
+                    text-align: center;
+                    padding-top: 3px;
+                    margin-top: 20px;}
+                    .oeo{    height: 100px;
+                        width: 100%;
+                        background-color:rgba(221, 223, 73, 0.999);
+                        border-radius: 5px;
+                        text-align: center;
+                        padding-top: 3px;
+                        margin-top: 20px;}
+                        .gso{    height: 100px;
+                            width: 100%;
+                            background-color:rgba(13, 13, 84, 0.999);
+                            border-radius: 5px;
+                            text-align: center;
+                            padding-top: 3px;
+                            margin-top: 20px;}
+                            .bto{height: 100px;
+                                width: 100%;
+                                background-color:rgba(68, 170, 69, 0.999);
+                                border-radius: 5px;
+                                text-align: center;
+                                padding-top: 3px;
+                                margin-top: 20px;}
+                                .tvto{height: 100px;
+                                    width: 100%;
+                                    background-color:rgba(87, 71, 124, 0.999);
+                                    border-radius: 5px;
+                                    text-align: center;
+                                    padding-top: 3px;
+                                    margin-top: 20px;
+
+                                }
+                                .roğ{
+                                    height: 100px;
+                                    width: 100%;
+                                    background-color:rgba(224, 3, 3, 0.999);
+                                    border-radius: 5px;
+                                    text-align: center;
+                                    padding-top: 3px;
+                                    margin-top: 20px;
+
+                                }
+                                .müo{
+                                    height: 100px;
+                                    width: 100%;
+                                    background-color:rgba(131, 24, 95, 0.999);
+                                    border-radius: 5px;
+                                    text-align: center;
+                                    padding-top: 3px;
+                                    margin-top: 20px;
+                                }
+
+
+/*kadros css end*/
+/*css responsive start*/
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+/*/*@media only screen and (min-width: 600px) {...}
+
+/* Medium devices (landscape tablets, 768px and up) */
+/*@media only screen and (min-width: 768px) {...}
+
+/* Large devices (laptops/desktops, 992px and up) */
+/*@media only screen and (min-width: 992px) {...}*/
+@media  (max-width:600px){
+ul li{ display: block;
+    margin-left:auto;
+margin-right:auto ;
+width: fit-content;}
+ul li .logo{margin-left:auto;
+    margin-right:auto ;
+    width: fit-content;}
+    
+.section-nav{height: 200px;}
+.f1 img{width: 100%;}
+.f2 img{width: 100%;}
+.f3 img{width: 100%;}
+.f4 img{width: 100%;}
+
+    
+.gurur{height: 600px;}
+.etkinliklerimizxxx .etxd{
+    width: 100%;
+}
+.form{
+    
+    width: 300px;
+    height: 510px;   
+}
+}
+@media (min-width:601px) and (max-width:768px){
+    .form{
+    
+        width: 300px;
+        height: 510px;   
+    }
+    ul li{ display: block;
+        margin-left:auto;
+    margin-right:auto ;
+    width: fit-content;}
+    ul li .logo{margin-left:auto;
+        margin-right:auto ;
+        width: fit-content;}
+        
+    .section-nav{height: 200px;}
+    .f1 img{width: 100%;}
+    .f2 img{width: 100%;}
+    .f3 img{width: 100%;}
+    .f4 img{width: 100%;}
+   
+        
+    .gurur{height: 300px;}
+    .etkinliklerimizxxx .etxd{
+        width: 100%;
+        height: 400px;
+    }
+}
+@media (min-width:769px) and (max-width:991px){
+    .form{
+    
+        width: 300px;
+        height: 510px;   
+    }
+    .f1 img{width: 100%;
+        height: 500px;
+    }
+    .f2 img{width: 100%;height: 500px;}
+    .f3 img{width: 100%;height: 500px;}
+    .f4 img{width: 100%;height: 500px;}
+    ul li{ display: inline;
+        margin-left:auto;
+    margin-right:auto ;
+    width: fit-content;}
+    .logo{margin-right: 10px;
+        }
+        .gurur{height: 250px;}
+        .etkinliklerimizxxx .etxd{
+            width: 100%;
+            height: 500px;
+            
+            
+        }
+
+
+}
+    @media (min-width:992px) and (max-width:1200px){
+        .form{
+    
+            width: 300px;
+            height: 510px;   
+        }
+        ul li{ display: inline;
+            margin-left:auto;
+        margin-right:auto ;
+        width: fit-content;}
+        .logo{margin-right: 170px;
+            }
+            .f1 img{width: 100%;
+                height: 600px;
+            }
+            .f2 img{width: 100%;height: 600px;}
+            .f3 img{width: 100%;height: 600px;}
+            .f4 img{width: 100%;height: 600px;}
+            .gurur{height: 200px;}
+            .etkinliklerimizxxx .etxd{
+                width: 100%;
+                height:600px ;
+            }
+    }
+    @media  (min-width:1200px){
+       
+        .form{
+    
+            width: 300px;
+            height: 510px;   
+        }
+        .etkinliklerimizxxx .etxd{
+            width: 100%;
+            height:700px ;
+        }
+        .f1 img{width: 100%;
+            height: 700px;
+        }
+        .f2 img{width: 100%;height: 700px;}
+        .f3 img{width: 100%;height: 700px;}
+        .f4 img{width: 100%;height: 700px;}
+        .gurur{height: 250px;}
+        
+
+            }
+            
+
+            
+        /*css responsive end*/
+
+    
+
+
+
+
